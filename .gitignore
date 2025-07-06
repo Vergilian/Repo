@@ -1,0 +1,6 @@
+/file.txt
+
+
+# Папки, создаваемые PyCharm
+.idea/
+*.iml
